@@ -1,0 +1,26 @@
+body
+{
+	margin: 10;
+	align-items: center;
+	background: #535874;
+}
+
+.head
+{
+	background: #6600ff;
+	text-align: center;
+}
+
+.foot
+{
+	text-align: center;
+	background: #6600ff;
+}
+
+.pfp
+{
+	height: 10%;
+	width: 10%;
+	padding: 50px;
+}
+
